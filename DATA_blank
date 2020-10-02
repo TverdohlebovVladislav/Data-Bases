@@ -1,26 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T19:19:50.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="B2JaR0g-iU5UOj9hJXzd" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T20:18:15.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="e0kXaH1kCzTLkQN2Nx8c" version="13.7.7" type="github">
   <diagram id="wjmCfZCQcyE_K3rYQwem" name="Page-1">
-    <mxGraphModel dx="942" dy="614" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="614" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K3C9SriMoOKF70wKrrYf-1" value="Разработчики" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="56" y="42" width="160" height="136" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-17" value="Дизайнеры" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="334" y="28" width="160" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-2" value="ID работника" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-18" value="ID дизайнера" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-3" value="ФИО" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-19" value="ФИО" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
           <mxGeometry y="56" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-4" value="Заработная плата&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-37" value="Лицевой счет" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
           <mxGeometry y="84" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-5" value="Должность" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-38" value="Номер телефона" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
+          <mxGeometry y="110" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-21" value="Команды разработчиков" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="255" width="188" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-22" value="ID команды " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
+          <mxGeometry y="26" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-23" value="Название команды" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
+          <mxGeometry y="56" width="188" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-12" value="Менеджеры" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="602" y="266" width="160" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-13" value="ID менеджера " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-12">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-14" value="ФИО" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-12">
+          <mxGeometry y="56" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-39" value="Лицевой счет" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-12">
+          <mxGeometry y="84" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-40" value="Номер телефона" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-12">
           <mxGeometry y="110" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="K3C9SriMoOKF70wKrrYf-6" value="Проекты" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="476" y="42" width="160" height="136" as="geometry" />
+          <mxGeometry x="294" y="392" width="160" height="162" as="geometry" />
         </mxCell>
         <mxCell id="K3C9SriMoOKF70wKrrYf-7" value="ID проекта" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-6">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -34,41 +58,59 @@
         <mxCell id="K3C9SriMoOKF70wKrrYf-10" value="Дэдлайн" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-6">
           <mxGeometry y="110" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-12" value="Менеджеры" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="266" width="160" height="110" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-36" value="Техническое задание" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-6">
+          <mxGeometry y="136" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-13" value="ID менеджера " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-12">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-32" value="Заработная плата" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="378" y="227" width="160" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-33" value="ID выплаты" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-32">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-14" value="ФИО" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-12">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-35" value="Дата выплаты" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-32">
           <mxGeometry y="56" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-15" value="Заработная плата" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-12">
-          <mxGeometry y="84" width="160" height="26" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-34" value="Размер выплаты" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-32">
+          <mxGeometry y="84" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-17" value="Менеджеры" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="316" y="322" width="160" height="110" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-1" value="Разработчики" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="84" y="28" width="160" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-18" value="ID менеджера " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-2" value="ID работника" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-19" value="ФИО" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-3" value="ФИО" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
           <mxGeometry y="56" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-20" value="Заработная плата" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
+        <mxCell id="K3C9SriMoOKF70wKrrYf-5" value="Должность" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
           <mxGeometry y="84" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-21" value="Команды разработчиков" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="560" y="224" width="188" height="110" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-30" value="Лицевой счет" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
+          <mxGeometry y="110" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-22" value="ID команды " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
-          <mxGeometry y="26" width="188" height="30" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-31" value="Номер телефона" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-1">
+          <mxGeometry y="136" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-23" value="Название команды" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
-          <mxGeometry y="56" width="188" height="28" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-25" value="Заказчики" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="602" y="28" width="160" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="K3C9SriMoOKF70wKrrYf-24" value="Заработная плата" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
-          <mxGeometry y="84" width="188" height="26" as="geometry" />
+        <mxCell id="K3C9SriMoOKF70wKrrYf-26" value="ID заказчика" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-25">
+          <mxGeometry y="26" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-27" value="ФИО" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-25">
+          <mxGeometry y="54" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-41" value="ИНН" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-25">
+          <mxGeometry y="82" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-28" value="Лицевой счет" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-25">
+          <mxGeometry y="108" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-42" value="Организация" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-25">
+          <mxGeometry y="134" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-43" value="Skype" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-25">
+          <mxGeometry y="160" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
