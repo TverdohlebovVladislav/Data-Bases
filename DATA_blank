@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T19:18:40.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qpqZd3llf0YlLhGfaK0W" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T19:19:50.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="B2JaR0g-iU5UOj9hJXzd" version="13.7.7" type="github">
   <diagram id="wjmCfZCQcyE_K3rYQwem" name="Page-1">
     <mxGraphModel dx="942" dy="614" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry y="84" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="K3C9SriMoOKF70wKrrYf-17" value="Менеджеры" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="448" y="266" width="160" height="110" as="geometry" />
+          <mxGeometry x="316" y="322" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K3C9SriMoOKF70wKrrYf-18" value="ID менеджера " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -57,6 +57,18 @@
         </mxCell>
         <mxCell id="K3C9SriMoOKF70wKrrYf-20" value="Заработная плата" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-17">
           <mxGeometry y="84" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-21" value="Команды разработчиков" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="224" width="188" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-22" value="ID команды " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
+          <mxGeometry y="26" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-23" value="Название команды" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
+          <mxGeometry y="56" width="188" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K3C9SriMoOKF70wKrrYf-24" value="Заработная плата" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K3C9SriMoOKF70wKrrYf-21">
+          <mxGeometry y="84" width="188" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
