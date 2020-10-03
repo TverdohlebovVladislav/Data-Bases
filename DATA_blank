@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T19:16:48.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PlG2GsQJq3DgnILoFS3Y" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T19:18:23.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_eZDFHK06CF4qaM9zmCp" version="13.7.7" type="github">
   <diagram id="wjmCfZCQcyE_K3rYQwem" name="Page-1">
     <mxGraphModel dx="1108" dy="665" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -201,10 +201,10 @@
           <mxGeometry x="722" y="1235" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yyYx9mHZs_nAYj2EuEir-25" value="1,m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="763" y="1386" width="40" height="20" as="geometry" />
+          <mxGeometry x="763" y="1361" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yyYx9mHZs_nAYj2EuEir-26" value="1,m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="958" y="1335" width="40" height="20" as="geometry" />
+          <mxGeometry x="958" y="1310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yyYx9mHZs_nAYj2EuEir-27" value="0,1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="901" y="1119" width="40" height="20" as="geometry" />
@@ -270,7 +270,7 @@
           <mxGeometry y="128" width="188" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8Jov70OtChLy9D6x0iAR-27" value="Менеджеры" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="798" y="1324" width="160" height="188" as="geometry" />
+          <mxGeometry x="798" y="1298" width="160" height="188" as="geometry" />
         </mxCell>
         <mxCell id="8Jov70OtChLy9D6x0iAR-28" value="Номер паспорта" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" parent="8Jov70OtChLy9D6x0iAR-27" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
