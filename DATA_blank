@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T19:18:23.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_eZDFHK06CF4qaM9zmCp" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T19:42:34.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2XaZoNvfzt3xFuzRjfUF" version="13.7.7" type="github">
   <diagram id="wjmCfZCQcyE_K3rYQwem" name="Page-1">
     <mxGraphModel dx="1108" dy="665" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Jov70OtChLy9D6x0iAR-13" value="Заказчики" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="938" y="868" width="160" height="186" as="geometry" />
+          <mxGeometry x="938" y="868" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8Jov70OtChLy9D6x0iAR-14" value="Лицевой счет" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" parent="8Jov70OtChLy9D6x0iAR-13" vertex="1">
           <mxGeometry y="26" width="160" height="28" as="geometry" />
@@ -129,14 +129,11 @@
         <mxCell id="8Jov70OtChLy9D6x0iAR-16" value="ИНН" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="8Jov70OtChLy9D6x0iAR-13" vertex="1">
           <mxGeometry y="82" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8Jov70OtChLy9D6x0iAR-17" value="Лицевой счет" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="8Jov70OtChLy9D6x0iAR-13" vertex="1">
+        <mxCell id="8Jov70OtChLy9D6x0iAR-18" value="Организация" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="8Jov70OtChLy9D6x0iAR-13" vertex="1">
           <mxGeometry y="108" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8Jov70OtChLy9D6x0iAR-18" value="Организация" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="8Jov70OtChLy9D6x0iAR-13" vertex="1">
-          <mxGeometry y="134" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="8Jov70OtChLy9D6x0iAR-19" value="Skype" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="8Jov70OtChLy9D6x0iAR-13" vertex="1">
-          <mxGeometry y="160" width="160" height="26" as="geometry" />
+          <mxGeometry y="134" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yyYx9mHZs_nAYj2EuEir-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=1;endSize=14;startSize=14;" edge="1" parent="1" source="8Jov70OtChLy9D6x0iAR-35" target="8Jov70OtChLy9D6x0iAR-25">
           <mxGeometry relative="1" as="geometry">
